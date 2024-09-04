@@ -1,0 +1,1 @@
+export * from './persona/info-persona-store';
